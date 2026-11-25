@@ -1,6 +1,7 @@
 # User manual
 
-[[toc]]
+[[to
+]]
 
 ## Start Shizuku
 
